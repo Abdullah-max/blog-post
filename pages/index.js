@@ -41,7 +41,6 @@ export default function Home({allPostsData}) {
                     <small className={utiliStyles.lighttext}>
                       <Date dateString={date} />
                     </small>
-                    
                 </li>
             ))}
         </ul>
